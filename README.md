@@ -1,4 +1,6 @@
 ## Well, hello there! 👋<br>
+🇧🇭 🇮🇳 🇺🇸
+
 Welcome to my corner of the digital universe! I'm Shraddha Shetti, your friendly neighborhood Data Expert on a quest to turn raw numbers into spellbinding insights. From crafting SQL queries that reveal hidden patterns to creating visualizations that tell compelling stories, I'm here to make data not just informative but downright magical!
 
 
